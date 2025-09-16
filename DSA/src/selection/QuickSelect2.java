@@ -1,4 +1,4 @@
-package algorithm;
+package selection;
 
 public class QuickSelect2 {
     public static int quickSelect(int[] arr, int low, int high, int k) {

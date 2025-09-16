@@ -1,4 +1,4 @@
-package algorithm;
+package graph;
 
 public class Kruskal1 {
     static  class Edge implements Comparable<Edge> {

@@ -1,4 +1,4 @@
-package algorithm;
+package graph;
 
 public class PrimsAlgorithm1 {
     private static final int V = 5; // Number of vertices in the graph

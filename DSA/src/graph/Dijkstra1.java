@@ -1,4 +1,4 @@
-package algorithm;
+package graph;
 
 public class Dijkstra1 {
     static class Node implements Comparable<Node>{
