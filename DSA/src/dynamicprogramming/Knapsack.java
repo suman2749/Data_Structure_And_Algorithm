@@ -1,4 +1,4 @@
-package searching;
+package dynamicprogramming;
 
 public class Knapsack {
     public static int knapsack(int W, int[] wt, int[] val, int n) {

@@ -1,4 +1,4 @@
-package searching;
+package dynamicprogramming;
 
 /*Similar to binary search but uses Fibonacci numbers to divide the array into sections.
 Effective for arrays where division operations are more expensive than addition/subtraction.

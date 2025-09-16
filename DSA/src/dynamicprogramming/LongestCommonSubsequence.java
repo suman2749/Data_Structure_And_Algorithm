@@ -1,4 +1,4 @@
-package algorithm;
+package dynamicprogramming;
 
 public class LongestCommonSubsequence {
     public static int lcs(String X, String Y) {
